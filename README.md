@@ -54,7 +54,7 @@ I'm an 8th-semester student in Information Systems at university Cotemig. Curren
 </p>
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-augusto-25b0991a3/)](https://www.linkedin.com/in/davi-augusto-25b0991a3/) [![Gmail Badge](https://img.shields.io/badge/-deiveaug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiveaug@gmail.com)](mailto:deiveaug@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@davi.august-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.august/)](https://www.instagram.comdavi.august/)
+[![Linkedin Badge](https://img.shields.io/badge/-davi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-augusto-25b0991a3/)](https://www.linkedin.com/in/davi-augusto-25b0991a3/) [![Gmail Badge](https://img.shields.io/badge/-deiveaug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiveaug@gmail.com)](mailto:deiveaug@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@davi.august-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.august/)](https://www.instagram.comdavi.august/)
 
 <p align="center"> 
   Visitor count<br>
