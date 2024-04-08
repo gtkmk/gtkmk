@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/davi-augusto-25b0991a3/">Davi Augusto Freitas</a> :smiley:
+ # <a href="https://www.linkedin.com/in/davi-augusto-25b0991a3/">Davi Augusto Freitas de Azevedo</a> :smiley:
  
 <a href="https://www.linkedin.com/in/davi-augusto-25b0991a3">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
