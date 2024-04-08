@@ -20,6 +20,8 @@ I'm an 8th-semester student in Information Systems at university Cotemig. Curren
 - Backend Development.
 - Web application.
 - Competitive Programming.
+- Clean code
+- SOLID
 
 **Languages and Tools:**  
 
