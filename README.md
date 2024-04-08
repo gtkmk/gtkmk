@@ -32,15 +32,24 @@ I'm an 8th-semester student in Information Systems at university Cotemig. Curren
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gtkmk&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davi's GitHub Stats"/>
+<hr></hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkmk&layout=compact&theme=radical" alt="Davi's GitHub Stats"/>
+<p align="center" dir="auto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtkmk&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davi's GitHub Stats"/>
+</p>
 
-<a href="https://github.com/gtkmk/finder_api">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtkmk&repo=finder_api&theme=radical" />
-</a>
+<p align="center" dir="auto">
+ <a align="center" dir="auto" href="https://github.com/gtkmk/finder_api">
+   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtkmk&repo=finder_api&theme=radical" />
+ </a>
+</p>
+
+<p align="center" dir="auto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkmk&layout=compact&theme=radical" alt="Davi's GitHub Stats"/>
+</p>
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-augusto-25b0991a3/)](https://www.linkedin.com/in/davi-augusto-25b0991a3/) [![Gmail Badge](https://img.shields.io/badge/-deiveaug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiveaug@gmail.com)](mailto:deiveaug@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@davi.august-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.august/)](https://www.instagram.comdavi.august/)
