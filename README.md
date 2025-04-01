@@ -60,7 +60,7 @@ I'm an 8th-semester student in Information Systems at university Cotemig. Curren
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gtkmk/count.svg" />
+  [![Davi Augusto Freitas de Azevedo profile views](https://u8views.com/api/v1/github/profiles/61632426/views/day-week-month-total-count.svg)](https://u8views.com/github/gtkmk)
 </p>
 
 
