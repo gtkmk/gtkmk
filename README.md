@@ -31,13 +31,6 @@ Currently, I work at **Yetz IncentiveTech**, a dynamic company specializing in *
 - Message Queues (Amazon SQS, Redis, RabbitMQ)
 - High Availability & Concurrent Systems
 
-
-RESTful & Event-Driven APIs.
-
-Cloud Services & Distributed Systems.
-
-Message Queues (Amazon SQS, RabbitMQ).
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
