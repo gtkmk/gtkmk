@@ -1,4 +1,6 @@
  # <a href="https://www.linkedin.com/in/davi-augusto-25b0991a3/">Davi Augusto Freitas de Azevedo</a> :smiley:
+
+ [![Davi Augusto Freitas de Azevedo profile views](https://u8views.com/api/v1/github/profiles/61632426/views/day-week-month-total-count.svg)](https://u8views.com/github/gtkmk)
  
 <a href="https://www.linkedin.com/in/davi-augusto-25b0991a3">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
