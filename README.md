@@ -14,14 +14,28 @@
 <br/>
 
 ## About :sunglasses:
-I'm an 8th-semester student in Information Systems at university Cotemig. Currently, I'm working at Fintech EmCash on nationwide projects (stay tuned for updates!). I specialize in backend development focusing on REST APIs. I also have some experience with frontend, although it's no longer my primary focus.
+I hold a degree in Information Systems from Cotemig and work as a seasoned software engineer. I have contributed to large-scale financial projects, developing simulation and financing tools for some of Latin America's leading construction companies through EmCash.
+<br/>
+Currently, I work at Yetz IncentiveTech, a dynamic company specializing in digital rewards and incentive programs. At Yetz, I handle projects that demand high availability and concurrency, ensuring robust and scalable performance. The company is well-known for its innovative approach in delivering efficient incentive solutions and serves high-profile clients, including Itaú—one of Brazil’s largest banks.
 
 ## Technologies :fire:
-- Backend Development.
-- Web application.
-- Competitive Programming.
-- Clean code.
-- SOLID.
+- Software Architecture
+- Backend Development
+- Web application
+- Competitive Programming
+- Clean code
+- SOLID
+- RESTful & Event-Driven APIs
+- Cloud Services & Distributed Systems
+- Message Queues (Amazon SQS, Redis, RabbitMQ)
+- High Availability & Concurrent Systems
+
+
+RESTful & Event-Driven APIs.
+
+Cloud Services & Distributed Systems.
+
+Message Queues (Amazon SQS, RabbitMQ).
 
 **Languages and Tools:**  
 
@@ -56,10 +70,11 @@ I'm an 8th-semester student in Information Systems at university Cotemig. Curren
 </p>
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-davi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-augusto-25b0991a3/)](https://www.linkedin.com/in/davi-augusto-25b0991a3/) [![Gmail Badge](https://img.shields.io/badge/-deiveaug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deiveaug@gmail.com)](mailto:deiveaug@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@davi.august-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.august/)](https://www.instagram.comdavi.august/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Davi%20Augusto-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-25b0991a3/)  
+[![Gmail Badge](https://img.shields.io/badge/-deiveaug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:deiveaug@gmail.com)  
+[![Instagram Badge](https://img.shields.io/badge/-@davi.august-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white)](https://www.instagram.com/davi.august/)  
 
 <p align="center"> 
-  Visitor count<br>
   <a href="https://u8views.com/github/gtkmk"><img src="https://u8views.com/api/v1/github/profiles/61632426/views/day-week-month-total-count.svg"></a>
 </p>
 
