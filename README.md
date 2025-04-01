@@ -15,6 +15,7 @@
 
 ## About :sunglasses:
 I hold a degree in **Information Systems** from **Cotemig** and work as a **software engineer**. I have contributed to **large-scale financial projects**, developing **simulation and financing tools** for some of **Latin America's leading construction companies** through **EmCash**.  
+
 Currently, I work at **Yetz IncentiveTech**, a dynamic company specializing in **digital rewards and incentive programs**. At Yetz, I handle projects that demand **high availability** and **concurrency**, ensuring **robust and scalable performance**. The company provides **incentive solutions** and serves **high-profile clients**, including **Itaú**—one of Brazil’s largest banks.
 
 
