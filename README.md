@@ -54,20 +54,24 @@ Message Queues (Amazon SQS, RabbitMQ).
 
 <hr></hr>
 
-<p align="center" dir="auto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtkmk&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davi's GitHub Stats"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtkmk&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davi's GitHub Stats"/>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkmk&layout=compact&theme=radical" alt="Davi's Top Languages"/>
+      </td>
+    </tr>
+  </table>
 
-<p align="center" dir="auto">
- <a align="center" dir="auto" href="https://github.com/gtkmk/finder_api">
-   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtkmk&repo=finder_api&theme=radical" />
- </a>
-</p>
+  <br/>
 
-<p align="center" dir="auto">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkmk&layout=compact&theme=radical" alt="Davi's GitHub Stats"/>
-</p>
+  <a href="https://github.com/gtkmk/finder_api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtkmk&repo=finder_api&theme=radical" />
+  </a>
+</div>
 
 ##  Contact Me :speech_balloon:
 [![LinkedIn Badge](https://img.shields.io/badge/-Davi%20Augusto-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-augusto-25b0991a3/)  
